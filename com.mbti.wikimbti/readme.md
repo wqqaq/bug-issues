@@ -1,5 +1,7 @@
 #### com.mbti.wikimbti
 
+MBTI百科是是市场排名最高的查询名人的MBTI手机应用，目前收录了15万+的名人MBTI数据。
+
 com.mbti.wikimbti has an Android manifest file that contains an entry with the android:allowBackup attribute set to true. This could be leveraged by an attacker with physical access to the device.
 
 - package: com.mbti.wikimbti
